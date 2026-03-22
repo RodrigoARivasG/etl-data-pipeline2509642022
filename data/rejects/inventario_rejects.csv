@@ -1,0 +1,22 @@
+id_inventario,id_bodega,item,cantidad,costo_unitario,motivo_rechazo
+INV5004,BOD112,Producto 79,257,,
+INV5009,BOD115,Producto 4,,277.58,cantidad_invalida
+INV5011,BOD104,Producto 89,,267.21,cantidad_invalida
+INV5022,BOD111,Producto 58,339,,
+INV5026,BOD117,Producto 47,,29.53,cantidad_invalida
+INV5048,BOD105,Producto 100,12,,
+INV5058,BOD105,Producto 5,14,,
+INV5074,BOD103,Producto 4,,258.68,cantidad_invalida
+INV5078,BOD106,Producto 92,,252.38,cantidad_invalida
+INV5086,BOD104,Producto 18,51,,
+INV5087,BOD103,Producto 59,,194.04,cantidad_invalida
+INV5093,BOD108,Producto 97,333,,
+INV5099,BOD108,Producto 8,258,,
+INV5103,BOD100,Producto 40,14,,
+INV5110,BOD107,Producto 106,,182.25,cantidad_invalida
+INV5120,BOD103,Producto 100,,260.22,cantidad_invalida
+INV5122,BOD106,Producto 82,,247.83,cantidad_invalida
+INV5123,BOD108,Producto 104,,112.95,cantidad_invalida
+INV5128,BOD117,Producto 120,187,,
+INV5136,BOD108,Producto 81,248,,
+INV5146,BOD101,Producto 108,,,cantidad_invalida
